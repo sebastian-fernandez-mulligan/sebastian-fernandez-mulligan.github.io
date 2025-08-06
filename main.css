@@ -41,6 +41,7 @@ article {
   width: 70%;
   background-color:white;
   height: 300px;
+  font-family: Verdana, sans-serif;
 }
 
 section::after {
@@ -54,4 +55,5 @@ section::after {
     width: 100%;
     height: auto;
   }
+
 }
